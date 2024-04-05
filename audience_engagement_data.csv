@@ -1,0 +1,150 @@
+user_id,gender,age,location,likes,comments,shares,clicks,views,time_spent,device,referral_source,followers
+1,Female,25-34,New York,100,20,10,50,500,30,Mobile,Instagram,1000
+2,Male,35-44,Los Angeles,200,30,15,100,1000,45,Desktop,Google,2000
+3,Female,18-24,Chicago,50,10,5,20,200,20,Mobile,Facebook,500
+4,Male,45-54,San Francisco,150,25,12,80,800,40,Desktop,Direct,1500
+5,Female,25-34,Houston,80,15,8,40,400,25,Mobile,Twitter,800
+6,Male,35-44,Boston,120,20,10,60,600,35,Desktop,Google,1200
+7,Female,18-24,Miami,70,12,6,30,300,22,Mobile,Instagram,700
+8,Male,45-54,Seattle,180,28,14,90,900,42,Desktop,Facebook,1800
+9,Female,25-34,Dallas,90,18,9,45,450,28,Mobile,Direct,900
+10,Male,35-44,Philadelphia,130,22,11,70,700,38,Desktop,Twitter,1300
+11,Female,18-24,Atlanta,60,11,6,25,250,23,Mobile,Instagram,600
+12,Male,45-54,Phoenix,170,27,13,85,850,41,Desktop,Google,1700
+13,Female,25-34,Detroit,110,19,10,55,550,32,Mobile,Facebook,1100
+14,Male,35-44,Denver,140,23,11,75,750,39,Desktop,Direct,1400
+15,Female,18-24,Washington D.C.,75,13,7,35,350,26,Mobile,Twitter,750
+16,Male,45-54,Minneapolis,190,29,15,95,950,43,Desktop,Instagram,1900
+17,Female,25-34,Austin,95,17,8,50,500,29,Mobile,Facebook,950
+18,Male,35-44,Portland,125,21,12,65,650,36,Desktop,Google,1250
+19,Female,18-24,San Diego,65,11,6,30,300,24,Mobile,Direct,650
+20,Male,45-54,Tampa,160,26,14,80,800,40,Desktop,Twitter,1600
+21,Female,25-34,Raleigh,85,16,9,45,450,27,Mobile,Instagram,850
+22,Male,35-44,Orlando,115,20,11,70,700,37,Desktop,Facebook,1150
+23,Female,18-24,Nashville,55,10,5,25,250,22,Mobile,Google,550
+24,Male,45-54,Charlotte,145,24,13,85,850,42,Desktop,Direct,1450
+25,Female,25-34,Pittsburgh,75,14,7,35,350,28,Mobile,Twitter,750
+26,Male,35-44,Sacramento,135,22,12,65,650,38,Desktop,Instagram,1350
+27,Female,18-24,Milwaukee,65,12,6,30,300,23,Mobile,Facebook,650
+28,Male,45-54,Cleveland,155,25,14,75,750,41,Desktop,Google,1550
+29,Female,25-34,Saint Louis,105,18,10,55,550,33,Mobile,Direct,1050
+30,Male,35-44,Kansas City,145,24,12,65,650,37,Desktop,Twitter,1450
+31,Female,18-24,Indianapolis,60,11,6,25,250,21,Mobile,Instagram,600
+32,Male,45-54,Columbus,165,26,14,80,800,43,Desktop,Facebook,1650
+33,Female,25-34,Cincinnati,95,17,8,45,450,28,Mobile,Google,950
+34,Male,35-44,Baltimore,125,21,11,70,700,36,Desktop,Direct,1250
+35,Female,18-24,Las Vegas,70,12,6,30,300,24,Mobile,Twitter,700
+36,Male,45-54,Honolulu,145,23,12,65,650,38,Desktop,Instagram,1450
+37,Female,25-34,Oklahoma City,110,19,10,55,550,32,Mobile,Facebook,1100
+38,Male,35-44,Albuquerque,140,23,12,70,700,37,Desktop,Google,1400
+39,Female,18-24,Birmingham,55,10,5,25,250,22,Mobile,Direct,550
+40,Male,45-54,Memphis,150,25,13,80,800,41,Desktop,Twitter,1500
+41,Female,25-34,Louisville,80,15,8,40,400,26,Mobile,Instagram,800
+42,Male,35-44,Richmond,120,20,11,65,650,36,Desktop,Facebook,1200
+43,Female,18-24,Salt Lake City,65,12,6,30,300,23,Mobile,Google,650
+44,Male,45-54,Hartford,145,24,12,70,700,38,Desktop,Direct,1450
+45,Female,25-34,Richmond,75,14,7,35,350,28,Mobile,Twitter,750
+46,Male,35-44,Omaha,135,22,11,65,650,37,Desktop,Instagram,1350
+47,Female,18-24,New Orleans,75,13,6,30,300,24,Mobile,Facebook,750
+48,Male,45-54,Buffalo,155,25,13,75,750,41,Desktop,Google,1550
+49,Female,25-34,Oakland,105,18,9,55,550,33,Mobile,Direct,1050
+50,Male,35-44,El Paso,135,22,11,70,700,36,Desktop,Twitter,1350
+51,Female,18-24,San Antonio,80,14,7,40,400,25,Mobile,Instagram,800
+52,Male,45-54,Tulsa,150,26,13,75,750,40,Desktop,Facebook,1500
+53,Female,25-34,Anchorage,100,18,10,50,500,30,Mobile,Google,1000
+54,Male,35-44,Fresno,130,23,12,65,650,38,Desktop,Direct,1300
+55,Female,18-24,Jacksonville,75,12,6,30,300,23,Mobile,Twitter,750
+56,Male,45-54,Spokane,160,28,14,80,800,42,Desktop,Instagram,1600
+57,Female,25-34,Baton Rouge,110,20,10,55,550,33,Mobile,Facebook,1100
+58,Male,35-44,Tucson,140,25,12,70,700,37,Desktop,Google,1400
+59,Female,18-24,Harrisburg,60,10,5,25,250,21,Mobile,Direct,600
+60,Male,45-54,Sarasota,145,24,12,75,750,39,Desktop,Twitter,1450
+61,Female,25-34,Des Moines,90,16,8,45,450,28,Mobile,Instagram,900
+62,Male,35-44,Baton Rouge,120,21,11,60,600,35,Desktop,Facebook,1200
+63,Female,18-24,Asheville,55,9,5,25,250,22,Mobile,Google,550
+64,Male,45-54,Chattanooga,150,25,13,75,750,40,Desktop,Direct,1500
+65,Female,25-34,Dayton,75,13,6,30,300,24,Mobile,Twitter,750
+66,Male,35-44,El Paso,130,22,12,65,650,38,Desktop,Instagram,1300
+67,Female,18-24,Providence,65,11,6,30,300,23,Mobile,Facebook,650
+68,Male,45-54,Huntsville,145,24,12,70,700,37,Desktop,Google,1450
+69,Female,25-34,Kansas City,105,18,9,55,550,33,Mobile,Direct,1050
+70,Male,35-44,Fayetteville,140,23,12,70,700,37,Desktop,Twitter,1400
+71,Female,18-24,Colorado Springs,60,10,5,25,250,21,Mobile,Instagram,600
+72,Male,45-54,Manchester,155,26,13,80,800,42,Desktop,Facebook,1550
+73,Female,25-34,Honolulu,95,17,9,45,450,29,Mobile,Google,950
+74,Male,35-44,Greenville,125,22,11,65,650,36,Desktop,Direct,1250
+75,Female,18-24,Little Rock,70,12,6,30,300,24,Mobile,Twitter,700
+76,Male,45-54,Daytona Beach,145,24,12,75,750,39,Desktop,Instagram,1450
+77,Female,25-34,Knoxville,110,19,10,55,550,33,Mobile,Facebook,1100
+78,Male,35-44,Fort Myers,140,24,13,70,700,37,Desktop,Google,1400
+79,Female,18-24,Boise,55,10,5,25,250,22,Mobile,Direct,550
+80,Male,45-54,Lansing,150,25,13,75,750,40,Desktop,Twitter,1500
+81,Female,25-34,Charleston,85,15,8,40,400,26,Mobile,Instagram,850
+82,Male,35-44,Springfield,125,22,11,65,650,36,Desktop,Facebook,1250
+83,Female,18-24,Pensacola,65,11,6,30,300,23,Mobile,Google,650
+84,Male,45-54,Tallahassee,145,24,12,70,700,37,Desktop,Direct,1450
+85,Female,25-34,Jackson,75,14,7,35,350,28,Mobile,Twitter,750
+86,Male,35-44,Grand Rapids,135,23,12,65,650,38,Desktop,Instagram,1350
+87,Female,18-24,Scranton,110,19,10,55,550,33,Mobile,Facebook,1100
+88,Male,45-54,Fayetteville,140,24,12,70,700,37,Desktop,Google,1400
+89,Female,25-34,Columbia,105,18,9,55,550,33,Mobile,Direct,1050
+90,Male,35-44,Salem,135,22,11,65,650,37,Desktop,Twitter,1350
+91,Female,18-24,Green Bay,60,10,5,25,250,21,Mobile,Instagram,600
+92,Male,45-54,Sioux Falls,155,26,13,80,800,42,Desktop,Facebook,1550
+93,Female,25-34,Anchorage,100,18,10,50,500,30,Mobile,Google,1000
+94,Male,35-44,Fresno,130,23,12,65,650,38,Desktop,Direct,1300
+95,Female,18-24,Shreveport,75,12,6,30,300,23,Mobile,Twitter,750
+96,Male,45-54,Wichita,160,28,14,80,800,43,Desktop,Instagram,1600
+97,Female,25-34,Baton Rouge,110,20,10,55,550,33,Mobile,Facebook,1100
+98,Male,35-44,Tucson,140,25,12,70,700,37,Desktop,Google,1400
+99,Female,18-24,Savannah,60,10,5,25,250,22,Mobile,Direct,600
+100,Male,45-54,Sarasota,145,24,12,75,750,39,Desktop,Twitter,1450
+101,Female,25-34,Louisville,80,15,8,40,400,26,Mobile,Instagram,800
+102,Male,35-44,Richmond,120,20,11,65,650,36,Desktop,Facebook,1200
+103,Female,18-24,Spokane,65,12,6,30,300,23,Mobile,Google,650
+104,Male,45-54,Hartford,145,24,12,70,700,38,Desktop,Direct,1450
+105,Female,25-34,Richmond,75,14,7,35,350,28,Mobile,Twitter,750
+106,Male,35-44,Omaha,135,22,11,65,650,37,Desktop,Instagram,1350
+107,Female,18-24,New Orleans,75,13,6,30,300,24,Mobile,Facebook,750
+108,Male,45-54,Buffalo,155,25,13,75,750,41,Desktop,Google,1550
+109,Female,25-34,Oakland,105,18,9,55,550,33,Mobile,Direct,1050
+110,Male,35-44,El Paso,135,22,11,70,700,36,Desktop,Twitter,1350
+111,Female,18-24,San Antonio,80,14,7,40,400,25,Mobile,Instagram,800
+112,Male,45-54,Tulsa,150,26,13,75,750,40,Desktop,Facebook,1500
+113,Female,25-34,Anchorage,100,18,10,50,500,30,Mobile,Google,1000
+114,Male,35-44,Fresno,130,23,12,65,650,38,Desktop,Direct,1300
+115,Female,18-24,Jacksonville,75,12,6,30,300,23,Mobile,Twitter,750
+116,Male,45-54,Spokane,160,28,14,80,800,42,Desktop,Instagram,1600
+117,Female,25-34,Baton Rouge,110,20,10,55,550,33,Mobile,Facebook,1100
+118,Male,35-44,Tucson,140,25,12,70,700,37,Desktop,Google,1400
+119,Female,18-24,Harrisburg,60,10,5,25,250,21,Mobile,Direct,600
+120,Male,45-54,Sarasota,145,24,12,75,750,39,Desktop,Twitter,1450
+121,Female,25-34,Des Moines,90,16,8,45,450,28,Mobile,Instagram,900
+122,Male,35-44,Baton Rouge,120,21,11,60,600,35,Desktop,Facebook,1200
+123,Female,18-24,Asheville,55,9,5,25,250,22,Mobile,Google,550
+124,Male,45-54,Chattanooga,150,25,13,75,750,40,Desktop,Direct,1500
+125,Female,25-34,Dayton,75,13,6,30,300,24,Mobile,Twitter,750
+126,Male,35-44,El Paso,130,22,12,65,650,38,Desktop,Instagram,1300
+125,Female,25-34,Dayton,75,13,6,30,300,24,Mobile,Twitter,750
+126,Male,35-44,El Paso,130,22,12,65,650,38,Desktop,Instagram,1300
+127,Female,18-24,Providence,65,11,6,30,300,23,Mobile,Facebook,650
+128,Male,45-54,Huntsville,145,24,12,70,700,37,Desktop,Google,1450
+129,Female,25-34,Kansas City,105,18,9,55,550,33,Mobile,Direct,1050
+130,Male,35-44,Fayetteville,140,23,12,70,700,37,Desktop,Twitter,1400
+131,Female,18-24,Colorado Springs,60,10,5,25,250,21,Mobile,Instagram,600
+132,Male,45-54,Manchester,155,26,13,80,800,42,Desktop,Facebook,1550
+133,Female,25-34,Honolulu,95,17,9,45,450,29,Mobile,Google,950
+134,Male,35-44,Greenville,125,22,11,65,650,36,Desktop,Direct,1250
+135,Female,18-24,Little Rock,70,12,6,30,300,24,Mobile,Twitter,700
+136,Male,45-54,Daytona Beach,145,24,12,75,750,39,Desktop,Instagram,1450
+137,Female,25-34,Knoxville,110,19,10,55,550,33,Mobile,Facebook,1100
+138,Male,35-44,Fort Myers,140,24,13,70,700,37,Desktop,Google,1400
+35,Female,18-24,Las Vegas,70,12,6,30,300,24,Mobile,Twitter,700
+36,Male,45-54,Honolulu,145,23,12,65,650,38,Desktop,Instagram,1450
+37,Female,25-34,Oklahoma City,110,19,10,55,550,32,Mobile,Facebook,1100
+38,Male,35-44,Albuquerque,140,23,12,70,700,37,Desktop,Google,1400
+38,Male,35-44,Albuquerque,140,23,12,70,700,37,Desktop,Google,1400
+39,Female,18-24,Birmingham,55,10,5,25,250,22,Mobile,Direct,550
+139,Female,18-24,Boise,55,10,5,25,250,22,Mobile,Direct,550
+140,Male,45-54,Lansing,150,25,13,75,750,40,Desktop,Twitter,1500
+141,Female,25-34,Charleston,85,15,8,40,400
